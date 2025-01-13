@@ -40,7 +40,7 @@ This project provides a practical learning experience in face recognition techno
    ```
 2. Install the required dependencies:
    ```bash
-   pip install -r r
+   pip install -r requirements.txt
    ```
 3. requirements.txtRun the project:
    ```bash
